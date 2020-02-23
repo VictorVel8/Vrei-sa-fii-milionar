@@ -1,0 +1,9 @@
+D:\Victor info\Vrei sa fii Milionar 2\Vrei sa fii Milionar 2\bin\Debug\Vrei sa fii Milionar 2.exe.config
+D:\Victor info\Vrei sa fii Milionar 2\Vrei sa fii Milionar 2\bin\Debug\Vrei sa fii Milionar 2.exe
+D:\Victor info\Vrei sa fii Milionar 2\Vrei sa fii Milionar 2\bin\Debug\Vrei sa fii Milionar 2.pdb
+D:\Victor info\Vrei sa fii Milionar 2\Vrei sa fii Milionar 2\obj\Debug\Vrei sa fii Milionar 2.csprojAssemblyReference.cache
+D:\Victor info\Vrei sa fii Milionar 2\Vrei sa fii Milionar 2\obj\Debug\Vrei_sa_fii_Milionar_2.Properties.Resources.resources
+D:\Victor info\Vrei sa fii Milionar 2\Vrei sa fii Milionar 2\obj\Debug\Vrei sa fii Milionar 2.csproj.GenerateResource.cache
+D:\Victor info\Vrei sa fii Milionar 2\Vrei sa fii Milionar 2\obj\Debug\Vrei sa fii Milionar 2.exe
+D:\Victor info\Vrei sa fii Milionar 2\Vrei sa fii Milionar 2\obj\Debug\Vrei sa fii Milionar 2.pdb
+D:\Victor info\Vrei sa fii Milionar 2\Vrei sa fii Milionar 2\obj\Debug\Vrei_sa_fii_Milionar_2.Form1.resources
